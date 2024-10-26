@@ -2,9 +2,9 @@
     margin: 0;
     padding: 0;
 }
-h1{
+#heading{
     text-align: center;
-    background-color: #ff7200;
+    background-color: blue;
     color: white;
     margin: 5px;
     padding: 10px;
